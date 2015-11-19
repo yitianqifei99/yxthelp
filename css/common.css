@@ -1,0 +1,177 @@
+/*  服务条款 页面开始 */
+/* 兼容iphone6 plus 以及更大尺寸*/
+@media screen and (min-width:377px){
+.service_agreement{padding-left:5%;padding-right:5%;padding-top:14px;padding-bottom:54px;}
+.service_agreement>.title{width:100%;display:block;height:24px;font-size:24px;line-height:24px;margin-top:14px;margin-bottom:24px;text-align:center;color:#333;}
+.service_agreement .text{width:100%;text-indent:2em;color:#666;font-size:18px;line-height:28px;}
+.service_agreement .type .title{font-size:20px;line-height:30px;display:block;margin-top:14px;margin-bottom:14px;color:#333;}
+.service_agreement .type .list p{text-indent:2em;font-size:18px;line-height:28px;color:#999;}
+.service_agreement .type .list a{text-decoration:underline;color:#008efa;}
+.service_agreement .type .list .small_list{line-height:28px;color:#999;font-size:18px;}
+}
+/* 兼容iphone6尺寸*/
+@media screen and (max-width:376px) and (min-width:321px) {
+.service_agreement{padding-left:5%;padding-right:5%;padding-top:12px;padding-bottom:52px;}
+.service_agreement>.title{width:100%;display:block;height:22px;font-size:22px;line-height:22px;margin-top:12px;margin-bottom:22px;text-align:center;color:#333;}
+.service_agreement .text{width:100%;text-indent:2em;color:#666;font-size:16px;line-height:26px;}
+.service_agreement .type .title{font-size:18px;line-height:28px;display:block;margin-top:12px;margin-bottom:12px;color:#333;}
+.service_agreement .type .list p{text-indent:2em;font-size:16px;line-height:26px;color:#999;}
+.service_agreement .type .list a{text-decoration:underline;color:#008efa;}
+.service_agreement .type .list .small_list{line-height:26px;color:#999;font-size:16px;}
+}
+/* 兼容iphone4s 5 5s尺寸*/
+@media screen and (max-width:320px){
+.service_agreement{padding-left:5%;padding-right:5%;padding-top:10px;padding-bottom:50px;}
+.service_agreement>.title{width:100%;display:block;height:20px;font-size:20px;line-height:20px;margin-top:10px;margin-bottom:20px;text-align:center;color:#333;}
+.service_agreement .text{width:100%;text-indent:2em;color:#666;font-size:14px;line-height:24px;}
+.service_agreement .type .title{font-size:16px;line-height:26px;display:block;margin-top:10px;margin-bottom:10px;color:#333;}
+.service_agreement .type .list p{text-indent:2em;font-size:14px;line-height:24px;color:#999;}
+.service_agreement .type .list a{text-decoration:underline;color:#008efa;}
+.service_agreement .type .list .small_list{line-height:24px;color:#999;font-size:14px;}
+}
+
+/* 保密协议 页面开始 */
+/* 兼容iphone6 plus 以及更大尺寸*/
+@media screen and (min-width:377px){
+.secrecy_agreement{padding-left:5%;padding-right:5%;padding-top:14px;padding-bottom:54px;}
+.secrecy_agreement>.title{width:100%;display:block;height:24px;font-size:24px;line-height:24px;margin-top:14px;margin-bottom:24px;text-align:center;color:#333;}
+.secrecy_agreement .text{width:100%;text-indent:2em;color:#666;font-size:18px;line-height:28px;}
+.secrecy_agreement .list{margin-top:20px;}
+.secrecy_agreement .list p{text-indent:2em;font-size:18px;line-height:28px;color:#999;}
+.secrecy_agreement .list a{text-decoration:underline;color:#008efa;}
+.secrecy_agreement .list .small_list{line-height:28px;color:#999;font-size:18px;}
+}
+/* 兼容iphone6尺寸*/
+@media screen and (max-width:376px) and (min-width:321px) {
+.secrecy_agreement{padding-left:5%;padding-right:5%;padding-top:10px;padding-bottom:50px;}
+.secrecy_agreement>.title{width:100%;display:block;height:22px;font-size:22px;line-height:22px;margin-top:12px;margin-bottom:22px;text-align:center;color:#333;}
+.secrecy_agreement .text{width:100%;text-indent:2em;color:#666;font-size:16px;line-height:26px;}
+.secrecy_agreement .list{margin-top:20px;}
+.secrecy_agreement .list p{text-indent:2em;font-size:16px;line-height:26px;color:#999;}
+.secrecy_agreement .list a{text-decoration:underline;color:#008efa;}
+.secrecy_agreement .list .small_list{line-height:26px;color:#999;font-size:16px;}
+}
+/* 兼容iphone4s 5 5s尺寸*/
+@media screen and (max-width:320px){
+.secrecy_agreement{padding-left:5%;padding-right:5%;padding-top:10px;padding-bottom:50px;}
+.secrecy_agreement>.title{width:100%;display:block;height:20px;font-size:20px;line-height:20px;margin-top:10px;margin-bottom:20px;text-align:center;color:#333;}
+.secrecy_agreement .text{width:100%;text-indent:2em;color:#666;font-size:14px;line-height:24px;}
+.secrecy_agreement .list{margin-top:20px;}
+.secrecy_agreement .list p{text-indent:2em;font-size:14px;line-height:24px;color:#999;}
+.secrecy_agreement .list a{text-decoration:underline;color:#008efa;}
+.secrecy_agreement .list .small_list{line-height:24px;color:#999;font-size:14px;}
+
+}
+
+/* 列表页 开始*/
+/* 兼容iphone6 plus 以及更大尺寸*/
+@media screen and (min-width:377px){
+.help_list{padding-bottom:24px;}
+.help_list .title{padding-left:5%;padding-right:5%;display:block;color:#666;font-size:18px;margin-bottom:19px;}
+.help_list .type{margin-top:19px;}
+.help_list .list{width:100%;background:#fff;line-height:22px;position:relative;font-size:18px;color:#333;}
+.help_list .list span{margin-left:5%;display:block;width:85%;border-bottom:1px solid #cacaca;padding-top:19px;padding-bottom:19px;word-break: keep-all;  overflow: hidden;  text-overflow: ellipsis;  white-space: nowrap;}
+.help_list .list span.last{border:0px;}
+.help_list .help_list_ico{width:12px;height:12px;display:block;position:absolute;right:5%;top:21px;background-image:url(../images/help_list_ico.png);}
+}
+/* 兼容iphone6尺寸*/
+@media screen and (max-width:376px) and (min-width:321px) {
+.help_list{padding-bottom:22px;}
+.help_list .title{padding-left:5%;padding-right:5%;display:block;color:#666;font-size:16px;margin-bottom:17px;}
+.help_list .type{margin-top:17px;}
+.help_list .list{width:100%;background:#fff;line-height:20px;position:relative;font-size:16px;color:#333;}
+.help_list .list span{margin-left:5%;display:block;width:85%;border-bottom:1px solid #cacaca;padding-top:17px;padding-bottom:17px;word-break: keep-all;  overflow: hidden;  text-overflow: ellipsis;  white-space: nowrap;}
+.help_list .list span.last{border:0px;}
+.help_list .help_list_ico{width:12px;height:12px;display:block;position:absolute;right:5%;top:19px;background-image:url(../images/help_list_ico.png);}
+}
+/* 兼容iphone4s 5 5s尺寸*/
+@media screen and (max-width:320px){
+.help_list{padding-bottom:20px;}
+.help_list .title{padding-left:5%;padding-right:5%;display:block;color:#666;font-size:14px;margin-bottom:15px;}
+.help_list .type{margin-top:15px;}
+.help_list .list{width:100%;background:#fff;line-height:18px;position:relative;font-size:14px;color:#333;}
+.help_list .list span{margin-left:5%;display:block;width:85%;border-bottom:1px solid #cacaca;padding-top:15px;padding-bottom:15px;word-break: keep-all;  overflow: hidden;  text-overflow: ellipsis;  white-space: nowrap;}
+.help_list .list span.last{border:0px;}
+.help_list .help_list_ico{width:12px;height:12px;display:block;position:absolute;right:5%;top:50%;margin-top:-6px;background-image:url(../images/help_list_ico.png);}
+}
+
+/*详情页*/
+/* 兼容iphone6 plus 以及更大尺寸*/
+@media screen and (min-width:377px){
+.help_info{padding-bottom:17%;padding-top:14px;}
+.help_info>.title{padding-left:5%;padding-right:5%;display:block;color:#666;font-size:24px;margin-bottom:14px;line-height:24px;color:#333;}
+.help_info>.text{padding-left:5%;padding-right:5%;color:#999;font-size:16px;}
+.help_info .a_info{padding-left:5%;padding-right:5%;width:100%;border:1px solid #eee;margin-top:24px;padding-top:24px;background:#fafafa;padding-bottom:34px;}
+.help_info .a_info .title{color:#333;font-size:18px;margin-bottom:14px;}
+.help_info .a_info li{line-height:40px;font-size:16px;}
+.help_info .a_info li a{color: #008efa;}
+.help_info .a_info .text{display:block;margin-top:14px;color:#999;font-size:16px;}
+.help_info .a_list .list{margin-top:24px;border:1px solid #eee;padding-bottom:24px;padding-top:24px;}
+.help_info .a_list .list .start{padding-left:5%;padding-right:5%;display:block;text-align:center;margin-bottom:14px;color:red;font-size:18px;}
+.help_info .a_list .list img{padding-left:5%;padding-right:5%;margin-left:3%;}
+.help_info .a_list .list .remarks{padding-left:5%;padding-right:5%;display:block;color:#999;margin-top:15px;text-align:center;font-size:14px;}
+.help_info .a_list .list .title{padding-left:5%;padding-right:5%;font-size:22px;margin-bottom:24px;}
+.help_info .a_list .list li{margin-top:24px;}
+.help_info .a_list .list li .text{font-size:18px;padding-left:10%;padding-right:5%;display:block;line-height:24px;margin-top:9px;color: #666;margin-bottom:24px;}
+.help_info .a_list .list .li_title{padding-left:5%;padding-right:5%;font-size:20px;color:#333;}
+.help_info .a_list .list>i.text{font-size:14px;padding-left:5%;padding-right:5%;display:block;color:#999;margin-top:19px;font-style:italic;}
+.help_info .list .li_remarks{font-size:14px;font-style:italic;display: block;}
+.help_button{width: 100%;position:absolute;bottom: 0;}
+.help_button .help_p_img{text-align: center;background: #f4f4f4;padding:4% 0;}
+.help_button .help_p_text{background:#413f4c;text-align: center;padding:3% 0;color: #b5b4bc;}
+.help_button .help_p_text em{font-size:10px;}
+.help_button .help_p_text em span{margin-left:20px;}
+}
+/* 兼容iphone6尺寸*/
+@media screen and (max-width:376px) and (min-width:321px) {
+.help_info{padding-bottom:16%;padding-top:10px;}
+.help_info>.title{padding-left:5%;padding-right:5%;display:block;color:#666;font-size:22px;margin-bottom:10px;line-height:20px;color:#333;}
+.help_info>.text{padding-left:5%;padding-right:5%;color:#999;font-size:14px;}
+.help_info .a_info{padding-left:5%;padding-right:5%;width:100%;border:1px solid #eee;margin-top:20px;padding-top:20px;background:#fafafa;padding-bottom:30px;}
+.help_info .a_info .title{color:#333;font-size:16px;margin-bottom:10px;}
+.help_info .a_info li{line-height:36px;font-size:14px;}
+.help_info .a_info li a{color: #008efa;}
+.help_info .a_info .text{display:block;margin-top:10px;color:#999;font-size:14px;}
+.help_info .a_list .list{margin-top:20px;border:1px solid #eee;padding-bottom:20px;padding-top:20px;}
+.help_info .a_list .list .start{padding-left:5%;padding-right:5%;display:block;text-align:center;margin-bottom:10px;color:red;font-size:16px;}
+.help_info .a_list .list img{padding-left:5%;padding-right:5%;margin-left:3%;}
+.help_info .a_list .list .remarks{padding-left:5%;padding-right:5%;display:block;color:#999;margin-top:15px;text-align:center;font-size:12px;}
+.help_info .a_list .list .title{padding-left:5%;padding-right:5%;font-size:20px;margin-bottom:14px;}
+.help_info .a_list .list li{margin-top:20px;}
+.help_info .a_list .list li .text{font-size:16px;padding-left:10%;padding-right:5%;display:block;line-height:22px;margin-top:5px;color: #666;margin-bottom:20px;}
+.help_info .a_list .list .li_title{padding-left:5%;padding-right:5%;font-size:18px;color:#333;}
+.help_info .a_list .list>i.text{font-size:12px;padding-left:5%;padding-right:5%;display:block;color:#999;margin-top:15px;font-style:italic;}
+.help_info .list .li_remarks{font-size:12px;font-style:italic;display: block;}
+.help_button{width: 100%;position:absolute;bottom: 0;}
+.help_button .help_p_img{text-align: center;background: #f4f4f4;padding:4% 0;}
+.help_button .help_p_text{background:#413f4c;text-align: center;padding:3% 0;color: #b5b4bc;}
+.help_button .help_p_text em{font-size:10px;}
+.help_button .help_p_text em span{margin-left: 20px;}
+
+}
+/* 兼容iphone4s 5 5s尺寸*/
+@media screen and (max-width:320px){
+.help_info{padding-bottom:16%;padding-top:10px;}
+.help_info>.title{padding-left:5%;padding-right:5%;display:block;color:#666;font-size:20px;margin-bottom:10px;line-height:20px;color:#333;}
+.help_info>.text{padding-left:5%;padding-right:5%;color:#999}
+.help_info .a_info{padding-left:5%;padding-right:5%;width:100%;border:1px solid #eee;margin-top:20px;padding-top:20px;background:#fafafa;padding-bottom:30px;}
+.help_info .a_info .title{color:#333;font-size:14px;margin-bottom:10px;}
+.help_info .a_info li{line-height:34px;}
+.help_info .a_info li a{color: #008efa;}
+.help_info .a_info .text{display:block;margin-top:10px;color:#999;}
+.help_info .a_list .list{margin-top:20px;border:1px solid #eee;padding-bottom:20px;padding-top:20px;}
+.help_info .a_list .list .start{padding-left:5%;padding-right:5%;display:block;text-align:center;margin-bottom:10px;color:red;font-size:14px;}
+.help_info .a_list .list img{padding-left:5%;padding-right:5%;margin-left:3%;}
+.help_info .a_list .list .remarks{padding:5%;display:block;color:#999;margin-top:15px;text-align:center;}
+.help_info .a_list .list .title{padding-left:5%;padding-right:5%;font-size:18px;margin-bottom:14px;}
+.help_info .a_list .list li{margin-top:20px;}
+.help_info .a_list .list li .text{font-size:14px;padding-left:10%;padding-right:5%;display:block;line-height:20px;margin-top:5px;color: #666;margin-bottom:20px;}
+.help_info .a_list .list .li_title{padding-left:5%;padding-right:5%;font-size:16px;color:#333;}
+.help_info .a_list .list>i.text{font-size:10px;padding-left:5%;padding-right:5%;display:block;color:#999;margin-top:15px;font-style:italic;}
+.help_info .list .li_remarks{font-size:10px;font-style:italic;}
+.help_button{width: 100%;position:absolute;bottom: 0;}
+.help_button .help_p_img{text-align: center;background: #f4f4f4;padding:4% 0;}
+.help_button .help_p_text{background:#413f4c;text-align: center;padding:3% 0;color: #b5b4bc;}
+.help_button .help_p_text em{font-size:10px;}
+.help_button .help_p_text em span{margin-left:20px;}
+}
